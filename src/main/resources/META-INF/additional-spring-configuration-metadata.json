@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spring.session.store-type",
+      "type": "java.lang.String",
+      "description": "Description for spring.session.store-type."
+    },
+    {
+      "name": "spring.session.store-type",
+      "type": "java.lang.String",
+      "description": "Description for spring.session.store-type."
+    }
+  ]
+}
